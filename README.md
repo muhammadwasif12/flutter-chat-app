@@ -83,15 +83,30 @@ flutterfire configure
 flutter run
 
 🧪 Screenshots
+
 Splash Screen 
+
+<img width="1366" height="768" alt="Screenshot (1769)" src="https://github.com/user-attachments/assets/1ad47865-52cf-4409-b255-ee81c3facd89" />
 
 Login
 
+<img width="1366" height="768" alt="Screenshot (1770)" src="https://github.com/user-attachments/assets/94f04e04-4a4a-4d98-b467-88742e7dda4e" />
+
+Sign Up
+
+<img width="1366" height="768" alt="Screenshot (1771)" src="https://github.com/user-attachments/assets/a43536ca-791e-460c-8dd8-6f1edc03e0fd" />
 
 Chat UI
 
+<img width="1366" height="768" alt="Screenshot (1772)" src="https://github.com/user-attachments/assets/2d29f9f5-8149-4afb-b19e-87a8734d7ff6" />
+
+<img width="1366" height="768" alt="Screenshot (1773)" src="https://github.com/user-attachments/assets/efccaf9a-712c-4629-bf59-46a08bc05b57" />
+
+<img width="1366" height="768" alt="Screenshot (1774)" src="https://github.com/user-attachments/assets/c36f749e-e639-4b8e-a348-336650d1949f" />
+
 
 📁 Sensitive Files (Not Pushed)
+
 These are excluded via .gitignore:
 
 lib/firebase_options.dart
@@ -99,6 +114,7 @@ lib/firebase_options.dart
 .env
 
 ✅ To-Do (Planned Features)
+
  Add direct 1-on-1 chat
 
  Chat media support (images, audio)
@@ -118,6 +134,7 @@ lib/firebase_options.dart
  Admin panel for moderation
 
 🌟 Future Enhancements
+
 📷 Add option to send images and emojis
 
 🧠 Add AI-powered smart replies
@@ -129,6 +146,7 @@ lib/firebase_options.dart
 🕵️‍♂️ End-to-end encryption (E2EE)
 
 📬 Contact
+
 Muhammad Wasif Shah
 📧 muhammadwasifshah629@gmail.com
 🌐 GitHub Profile
