@@ -148,10 +148,13 @@ lib/firebase_options.dart
 📬 Contact
 
 Muhammad Wasif Shah
+
 📧 muhammadwasifshah629@gmail.com
+
 🌐 GitHub Profile
 
 ⭐️ Support This Project
+
 If you found this project helpful, please consider giving it a ⭐️ on GitHub!
 
 
